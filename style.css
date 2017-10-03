@@ -73,7 +73,43 @@ h3 {
   padding-bottom: 20px;
 }
 
+h4 {
+  font-size: 13px;
+  font-weight: bolder;
+  padding-bottom: 20px;
+}
+
 .ui.container.footer {
   background-color: #EAECEE;
-  padding: 20px;
+  padding-top: 50px;
+  padding-left: 175px;
+  padding-right: 175px;
+  margin: 0px;
+}
+
+.ui.three.column.grid.container.footer-title{
+  font-style: bold;
+  font-size: 12px;
+}
+
+.event-icon{
+  height: 25px;
+  width: 25px;
+}
+
+.content-sidebar{
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.bottommenu.menu {
+  background-color: #EAECEE;
+  color: black;
+  padding-top: 50px;
+  padding-right: 175px;
+  padding-bottom: 12px;
+  padding-left: 175px;
+  border-radius: 0;
+  border: none;
+  margin: 0;
 }
