@@ -1,0 +1,79 @@
+
+
+.ui.borderless.topmenu.menu {
+  background-color: #515151;
+  color: #C2D460;
+  padding-top: 12px;
+  padding-right: 175px;
+  padding-bottom: 12px;
+  padding-left: 175px;
+  border-radius: 0;
+  margin: 0;
+ }
+
+.ui.borderless.topmenu.menu.input {
+  border-radius: 0;
+}
+
+.fitted.item.social-icon{
+  color: #C3DA5F;
+  margin-left: 18px;
+}
+
+.fitted.item.topmenu-link{
+  color: #C3DA5F;
+  margin-left: 18px;
+}
+
+.ui.borderless.menu {
+  background-color: #000000;
+  color: white;
+  font-family: Raleway;
+  font-size: 14px;
+  padding-top: 40px;
+  padding-right: 175px;
+  padding-bottom: 40px;
+  padding-left: 175px;
+  border-radius: 0;
+  margin: 0;
+}
+
+.ui.main {
+  padding-top: 32px;
+  padding-right: 175px;
+  padding-bottom: 40px;
+  padding-left: 175px;
+  border-radius: 0;
+  margin: 0;
+  font-family: "Raleway";
+  font-size: 13px;
+  font-weight: normal;
+}
+
+.ui.borderless.menu{
+  background-color: #000000;
+  color: white;
+}
+
+h1 {
+  font-family: Raleway;
+  font-size: 46px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: #636363;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 12px;
+  font-weight: bolder;
+  color: #636363;
+  padding-bottom: 20px;
+}
+
+.ui.container.footer {
+  background-color: #EAECEE;
+  padding: 20px;
+}
