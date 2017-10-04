@@ -76,7 +76,12 @@ h3 {
 h4 {
   font-size: 13px;
   font-weight: bolder;
-  padding-bottom
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+h5 {
+  font-size: 16px;
 }
 
 .ui.container.footer {
@@ -94,7 +99,7 @@ h4 {
 
 .event-icon{
   height: 25px;
-  width: 25px;
+  width: 20px;
 }
 
 .content-sidebar{
@@ -104,8 +109,8 @@ h4 {
 
 .sidemenu-link{
   color: #088996;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 .ui.borderless.bottommenu.menu {
@@ -113,7 +118,7 @@ h4 {
   color: black;
   padding-top: 50px;
   padding-right: 175px;
-  padding-bottom: 12px;
+
   padding-left: 175px;
   border-radius: 0;
   border: none;
